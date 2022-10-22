@@ -1,3 +1,3 @@
 input_url,"https://raw.githubusercontent.com/SohaWithAnS/BigData_Assign2/main/T_T100D_SEGMENT_US_CARRIER_ONLY.csv"
-max_iter,2
+max_iter,3
 output_url,"output.csv"
