@@ -2,7 +2,7 @@
 
 ## Question 1 
 - parameter file: Question1/params.csv
-- input file: Question1/
+- input file: Question1/T_T100D_SEGMENT_US_CARRIER_ONLY.csv
 - output file: Question1/output.csv
 
 ## Question 2 
