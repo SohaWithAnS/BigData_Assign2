@@ -2,7 +2,7 @@
 
 ## Question 1 
 - parameter file: Question1/params.csv
-- input file: main
+- input file: Question1/
 - output file: Question1/output.csv
 
 ## Question 2 
